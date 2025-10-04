@@ -77,7 +77,8 @@ used.
 
 
 #### Timing Report: 
-<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/7cde2be9-f90c-4ec0-8466-f7b8a96795c7" />
+<img width="1920" height="1080" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/d0676a4f-6e0e-4ec4-83db-7b2bf694288a" />
+
 
 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
